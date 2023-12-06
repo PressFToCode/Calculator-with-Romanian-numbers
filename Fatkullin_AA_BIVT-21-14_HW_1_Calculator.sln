@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatkullin_AA_BIVT-21-14_HW_1_Calculator", "Fatkullin_AA_BIVT-21-14_HW_1_Calculator\Fatkullin_AA_BIVT-21-14_HW_1_Calculator.csproj", "{C743D443-45AB-4180-B25E-E45271C4E06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C743D443-45AB-4180-B25E-E45271C4E06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C743D443-45AB-4180-B25E-E45271C4E06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C743D443-45AB-4180-B25E-E45271C4E06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C743D443-45AB-4180-B25E-E45271C4E06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CF7C1EA-842E-4644-A48C-F11255EB0195}
+	EndGlobalSection
+EndGlobal
